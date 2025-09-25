@@ -4,6 +4,8 @@ description: This syllabus section provides the course description and informati
   on meeting times, intended learning outcomes, requirements, grading, readings, required
   text, attendance and class participation policy, late assignment policy, collaboration
   policy, electronic device policy, academic integrity, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
