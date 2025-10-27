@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides details on final project deliverables, assessment
   guidelines, and links to useful resources for completion of the project.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -44,6 +42,6 @@ Bibliographic and citation skills—were all sources properly cited in the execu
 Other Useful Resources for the Completion of the Final Project
 --------------------------------------------------------------
 
-[Mayfield Guide to Executive Summary](http://www.mhhe.com/mayfieldpub/tsw/abstract.htm)
+{{% resource_link "364911d1-33b4-48f2-9077-c4667d815ab9" "Mayfield Guide to Executive Summary" %}}
 
-[Citation Quick Guide](http://www.chicagomanualofstyle.org/tools_citationguide.html)
+{{% resource_link "e2ddae78-3758-4618-90a5-a4d1cda637ff" "Citation Quick Guide" %}}

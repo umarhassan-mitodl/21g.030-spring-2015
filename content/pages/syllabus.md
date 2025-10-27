@@ -4,8 +4,6 @@ description: This syllabus section provides the course description and informati
   on meeting times, intended learning outcomes, requirements, grading, readings, required
   text, attendance and class participation policy, late assignment policy, collaboration
   policy, electronic device policy, academic integrity, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -22,9 +20,9 @@ Description
 
 This subject is an introduction to various forms of culture in East Asia (focusing on China, Japan and Korea), including both traditional and contemporary examples. Critically examines the shared cultural elements that are widely considered to constitute "East Asian culture," and also the diversity within East Asia, historically and today. Examples include religious and philosophical beliefs (Confucianism and Buddhism), literature, art, food, architecture, and popular culture. The study of gender will be an integral part of this subject. The influence and presence of Asian cultural expressions in the U.S. are also considered.
 
-This 12-unit class is suitable for students of all levels, and requires no Asian language background nor any other prerequisites. The course is taught in English. MIT students who wish to fulfill the preparation requirement for the [MISTI-Singapore program](http://misti.mit.edu/student-programs/location/singapore) may do their final project on Singapore. MIT students with a minor in Chinese may take the 13-unit version, 21G.193, which requires a project with research in Chinese.
+This 12-unit class is suitable for students of all levels, and requires no Asian language background nor any other prerequisites. The course is taught in English. MIT students who wish to fulfill the preparation requirement for the {{% resource_link "6f8f4d07-f28b-4ddc-8e7b-645adb4d1e4f" "MISTI-Singapore program" %}} may do their final project on Singapore. MIT students with a minor in Chinese may take the 13-unit version, 21G.193, which requires a project with research in Chinese.
 
-The course includes a required field trip to the [Museum of Fine Arts](http://www.mfa.org/) and an optional trip to the [Peabody Essex Museum](http://www.pem.org/visit/yin_yu_tang).
+The course includes a required field trip to the {{% resource_link "9cfb946c-b44b-4ebe-8504-0a8013f85d9d" "Museum of Fine Arts" %}} and an optional trip to the {{% resource_link "42e8d036-17e1-4ad3-b459-a3497a231b60" "Peabody Essex Museum" %}}.
 
 Intended Learning Outcomes
 --------------------------
@@ -119,7 +117,7 @@ All reading assignments are provided in the {{% resource_link 2fefbaf3-e4e7-16a1
 Required Text
 -------------
 
-Translator, Intro and Notes by Fu, Shen, and Graham Sanders. _Six Records of a Life Adrift_. Hackett Publishing Company, Incorporated, 2011. ISBN: 9781603841986. \[Preview with [Google Books](http://books.google.com/books?id=VLIfSk_qQi8C&pg=PAfrontcover)\]
+Translator, Intro and Notes by Fu, Shen, and Graham Sanders. _Six Records of a Life Adrift_. Hackett Publishing Company, Incorporated, 2011. ISBN: 9781603841986. \[Preview with {{% resource_link "037316c3-f866-440d-8094-f8b9c704f3c2" "Google Books" %}}\]
 
 Attendance and Class Participation Policy
 -----------------------------------------
@@ -146,7 +144,7 @@ Policy on Academic Integrity
 
 **Plagiarism and other forms of academic dishonesty are serious offenses** and will be dealt with according to MIT policy and procedures.
 
-All students are expected to be familiar with MIT's policies and guidelines on academic integrity as outlined in the [Handbook on Academic Integrity](http://integrity.mit.edu/).
+All students are expected to be familiar with MIT's policies and guidelines on academic integrity as outlined in the {{% resource_link "1995727f-a361-488e-8761-846a4e80f7fd" "Handbook on Academic Integrity" %}}.
 
 Please review all the guidelines in the handbook, including the information on responsible paraphrasing.
 
