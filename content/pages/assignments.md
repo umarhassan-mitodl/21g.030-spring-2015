@@ -3,8 +3,6 @@ content_type: page
 description: This section provides descriptions of each of the assignments for the
   course.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -82,7 +80,7 @@ Wei-Ming, Tu. *Confucian Traditions in East Asian Modernity: Moral Education and
 
 ———. "Confucian Traditions in East Asian Modernity: Exploring Moral Authority and Economic Power in Japan and the Four Mini-Dragons." *Bulletin of the American Academy of Arts and Sciences* 46, no. 8 (1993): 5–19.
 
-Sigurdsson, Geir. "[Confucianism vs. Modernity: Expired, Incompatible or Remedial?](http://revije.ff.uni-lj.si/as/article/view/1002)" *Asian Studies* 2, no. 1 (2014): 21–38.
+Sigurdsson, Geir. "{{% resource_link "a0053dc6-fe59-479d-a753-06e7e4905275" "Confucianism vs. Modernity: Expired, Incompatible or Remedial?" %}}" *Asian Studies* 2, no. 1 (2014): 21–38.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Reading Response 6 in Korean Wave
@@ -90,9 +88,9 @@ Reading Response 6 in Korean Wave
 
 What does Joseph Nye mean by "soft power?" Based on the readings and lecture for this week, what are some key factors behind the recent spread of South Korean soft power through popular culture and media? Feel free to also draw on your own experiences of South Korean pop culture, if any.
 
-Nye, Joseph S. Jr. "[South Korea's Growing Soft Power](https://www.belfercenter.org/publication/south-koreas-growing-soft-power#:~:text=When%20the%20Association%20of%20Southeast,Korea%20was%20an%20important%20presence.&text=In%20a%20recent%20survey%20of,in%20terms%20of%20national%20power.)," *Daily Times*, November 11, 2009.
+Nye, Joseph S. Jr. "{{% resource_link "37f7fc60-60ba-463e-8127-1d3716951530" "South Korea's Growing Soft Power" %}}," *Daily Times*, November 11, 2009.
 
-Shim, Doobo. "[Hybridity and The Rise of Korean Popular Culture in Asia](http://dx.doi.org/10.1177/0163443706059278)." *Media, Culture & Society* 28, no. 1 (2006): 25–44.
+Shim, Doobo. "{{% resource_link "34619fee-bf4e-4e8a-869d-b909cbe6ae61" "Hybridity and The Rise of Korean Popular Culture in Asia" %}}." *Media, Culture & Society* 28, no. 1 (2006): 25–44.
 
 Lee, Hyangjin. "South Korea: Film on the Global Stage." In *Contemporary Asian Cinema: Popular Culture in a Global Frame*. Edited by Anne Tereska Ciecko. Berg Publishers, 2006, pp. 182–92. ISBN: 9781845202378.
 
@@ -106,7 +104,7 @@ Loyalka, Michelle. *Eating Bitterness: Stories from the Front Lines of China's G
 
 and Read:
 
-Gerth, Karl. "[Lifestyles of the Rich and Infamous: The Creation and Implications of China's New Aristocracy](http://dx.doi.org/10.1163/156913311X590592)." *Comparative Sociology* 10, no. 4 (2011): 488–507.
+Gerth, Karl. "{{% resource_link "8d54e87b-b8d5-45b6-986d-da5cb98c53c5" "Lifestyles of the Rich and Infamous: The Creation and Implications of China's New Aristocracy" %}}." *Comparative Sociology* 10, no. 4 (2011): 488–507.
 
 Based on these readings, share your thoughts on the growing divide between rich and poor in Post-maoist China.
 
@@ -124,7 +122,7 @@ Go back and review your reading responses from this term. How have your ideas ab
 MFA Field Trip and Looking Assignment—3 Parts (required)
 {{< tdclose >}}{{< tdopen >}}
 
-I. [Beyond the Screen](https://www.mfa.org/exhibitions/beyond-screen) Exhibit
+I. {{% resource_link "0082fe23-4707-4438-9ba7-28f13da57e8d" "Beyond the Screen" %}} Exhibit
 
 Pick 1 object from each of the following categories. Describe the object (date, place, materials, how it was made, size). Then write a brief description fitting the object into your knowledge of the Chinese scholar's taste and lifestyle.
 
@@ -144,8 +142,8 @@ II. In the Asia collection
 
 III. Buddhist art
 
-Look at the website created by the Victoria and Albert Museum on [Buddhism and Art](http://www.vam.ac.uk/page/b/buddhism/).   
-Read through the page on [iconography](http://www.vam.ac.uk/content/articles/i/iconography-of-the-buddha/), and browse through any other entries that interests you.
+Look at the website created by the Victoria and Albert Museum on {{% resource_link "534a39f5-2619-4e17-8397-58f1f190238e" "Buddhism and Art" %}}.   
+Read through the page on {{% resource_link "75e32ec7-3b73-4626-885c-7d582ee3593a" "iconography" %}}, and browse through any other entries that interests you.
 
 1. Find an object that reflects the influence of Buddhism: Describe, what does it reveal about Buddhist beliefs? (You may include Tibet)
 2. Find a second object depicting an example of Buddhist iconography as described on the Victoria and Albert website referenced above. Describe how the iconography appears in the object or artwork.
@@ -154,7 +152,7 @@ Read through the page on [iconography](http://www.vam.ac.uk/content/articles/i/i
 Peabody Essex Museum Field Trip and Assignment (Optional)
 {{< tdclose >}}{{< tdopen >}}
 
-Write about something that interests you about this house [Yin Yu Tang](http://www.pem.org/sites/yinyutang/) in the exhibit.
+Write about something that interests you about this house {{% resource_link "cde02ab4-b6dc-4160-9a51-e2222fb77175" "Yin Yu Tang" %}} in the exhibit.
 
 Supplemental Reading: Berliner, Nancy Zeng. *Yin Yu Tang: The Architecture and Daily Life of a Chinese House*. Tuttle Publishing, 2003. ISBN: 9780804834872.
 

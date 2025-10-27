@@ -9,40 +9,40 @@ uid: a7f80cb6-6c7b-5047-b2f1-8906f82409cf
 ---
 ## Chronologies
 
-[Chronology of Chinese Dynasties](http://afe.easia.columbia.edu/timelines/china_timeline.htm#Chinese%20History)
+{{% resource_link "d1a1c750-c7b9-4727-8fe4-257d65ac8548" "Chronology of Chinese Dynasties" %}}
 
-[Chronology of Japan](http://afe.easia.columbia.edu/timelines/japan_timeline.htm)
+{{% resource_link "b45e93b1-bcff-4a5c-a025-fd0bb8ba5a93" "Chronology of Japan" %}}
 
-[Chronology of Korea](http://afe.easia.columbia.edu/timelines/korea_timeline.htm)
+{{% resource_link "72d44af7-06a4-41d8-8598-0c8a7af1a15f" "Chronology of Korea" %}}
 
-[Timeline of Chinese Inventions](http://afe.easia.columbia.edu/song/readings/inventions_timeline.htm)
+{{% resource_link "b52585b1-5ad2-4e6f-aab5-92028aa27769" "Timeline of Chinese Inventions" %}}
 
 ## Supplemental Resources to Session 10–13
 
-Simoons, Frederick J. "Food in Chinese Thought and Culture." Chapter 1 in *Food in China: A Cultural and Historical Inquiry*. CRC Press, 1990, pp. 13–37. ISBN: 9780849388040. \[Preview with [Google Books](http://books.google.com/books?id=Fo087ZxohA4C&pg=PA13=onepage)\]
+Simoons, Frederick J. "Food in Chinese Thought and Culture." Chapter 1 in *Food in China: A Cultural and Historical Inquiry*. CRC Press, 1990, pp. 13–37. ISBN: 9780849388040. \[Preview with {{% resource_link "3f550826-7157-4c09-ae40-a5869869b5eb" "Google Books" %}}\]
 
-北海道グルメ動画【GouTube北海道】. "[Edo Sushi Video](https://www.youtube.com/watch?v=DcpyDgb_g1E)." August 19, 2013. YouTube.
+北海道グルメ動画【GouTube北海道】. "{{% resource_link "98bfaeb2-48be-4eff-a6f9-0d126605e201" "Edo Sushi Video" %}}." August 19, 2013. YouTube.
 
-The Culinary Institute of America. "[Medicinal Food in Hong Kong](https://www.youtube.com/watch?v=4WEtH-9qVuk&feature=youtu.be)." Feburary 20, 2013. YouTube.
+The Culinary Institute of America. "{{% resource_link "867becdc-3641-4e97-b9c0-0d370262e45a" "Medicinal Food in Hong Kong" %}}." Feburary 20, 2013. YouTube.
 
-Arirang. "[Globalizing Korean Food](https://www.youtube.com/watch?v=jXka3PuvvW8&feature=youtu.be)." Feburary 7, 2014. YouTube.
+Arirang. "{{% resource_link "ac424bc4-91ff-4564-bf3f-5e4f74d691dd" "Globalizing Korean Food" %}}." Feburary 7, 2014. YouTube.
 
-Arirang Culture. "[Tales of Hansik – Kimchee](https://www.youtube.com/watch?v=AzMLe9w8dsE&feature=youtu.be)." September 26, 2013. YouTube.
+Arirang Culture. "{{% resource_link "e45f34c5-0b3b-4479-8a37-3a8f86d7adf8" "Tales of Hansik – Kimchee" %}}." September 26, 2013. YouTube.
 
-The Fishy Channel. "[Tsukiji Fish Market](https://www.youtube.com/watch?v=NqbWUO5_MeU&feature=youtu.be)." November 4, 2014. YouTube.
+The Fishy Channel. "{{% resource_link "cee2b79c-5a6e-4105-b85b-10bdecc8de0e" "Tsukiji Fish Market" %}}." November 4, 2014. YouTube.
 
-[Revenge Bento 1](https://web.archive.org/web/20150207101136/http://m-miya.net/blog/single-mother-bento.html)
+{{% resource_link "4bf4074c-53eb-4871-b184-73c28eeb2d8e" "Revenge Bento 1" %}}
 
-[Revenge Bento 2](http://www.iromegane.com/entertainment/foods/the-japanese-wives-revenge-bento-after-the-fight-shikaeshi-bento/)
+{{% resource_link "bed220da-5753-485c-a490-957ad351938f" "Revenge Bento 2" %}}
 
-[Hello Kitty Bento](http://www.theparentspot.com/recipes/how-to-make-a-hello-kitty-bento-lunch-box-the-easy-way/)
+{{% resource_link "dabc43b7-b8c8-48e8-b015-827f21610697" "Hello Kitty Bento" %}}
 
-[Japanese Moms Stress over Bento](http://www.iromegane.com/entertainment/foods/japanese-mums-get-stressed-about-making-obento/)
+{{% resource_link "c7ff1f4e-238e-4663-8efd-18aebf0c9292" "Japanese Moms Stress over Bento" %}}
 
 ## Other Resources
 
-amitaba3. "[Heart Sutra Korean](https://www.youtube.com/watch?v=rbE2ZLEJbn0&feature=youtu.be&list=PLulkGJECRCZCThpYm5U91MnCIgaFkHCi1)." June 17, 2011. YouTube.
+amitaba3. "{{% resource_link "44c8f94e-4653-4f78-a21d-f6f334a68f34" "Heart Sutra Korean" %}}." June 17, 2011. YouTube.
 
-A Laowai's View of China & Taiwan. "[Visit Taiwan](https://www.youtube.com/watch?v=eufiu-irFqc)." August 11, 2014. YouTube.
+A Laowai's View of China & Taiwan. "{{% resource_link "db6888dc-5958-4577-b719-9732f37633a3" "Visit Taiwan" %}}." August 11, 2014. YouTube.
 
-AFP News Agency. "[Taipei Cram School](https://www.youtube.com/watch?v=eGpHEPAHQ3E&feature=youtu.be)." June 4, 2011. YouTube.
+AFP News Agency. "{{% resource_link "29c6a36a-4e04-4c3c-acbc-87828857bbc2" "Taipei Cram School" %}}." June 4, 2011. YouTube.
